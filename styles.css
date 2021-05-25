@@ -365,4 +365,14 @@
     background-image:  linear-gradient(to right, #00dbde 0%, #fc00ff 100% );
 }
 
+.fa-layer-group, 
+.fa-users {
+    font-size: 14 rem;
+}
+
+#card-2 {
+    background: #ff512f;
+    background: -webkit-linear-gradient(to right, #dd2476, #fd1d1d, );
+    background: linear-gradient(to right, #dd2476, #ff512f, );
+}
 
